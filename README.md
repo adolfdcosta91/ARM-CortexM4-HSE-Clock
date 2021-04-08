@@ -26,5 +26,5 @@ HSE(High Speed External Clock) from the developement kit is channeled to Pin PA-
 
 ### Circuit Diagram
 
-![ScreenShot](./source/output.png)
+![ScreenShot](./source/Circuit-Diagram1.png)
 
